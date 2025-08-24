@@ -51,6 +51,7 @@ and compare how different measures of consumption growth explain asset returns.
    git clone https://github.com/TejasviniBhatt/consumption-asset-pricing.git
    cd consumption-asset-pricing/matlab
 
+2. Open MATLAB and run:
    main_script.m
 
 ##✍️ Author
