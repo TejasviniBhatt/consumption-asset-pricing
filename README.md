@@ -27,7 +27,12 @@ and compare how different measures of consumption growth explain asset returns.
 ## 📊 Key Results
 - Estimated risk aversion parameters  
 - Evidence on the **risk-free rate puzzle** and **equity premium puzzle**  
-- Visual analysis of model fit and residuals  
+- Visual analysis of model fit and residuals
+
+### Example Output
+![Stochastic Discount Factor (Filtered)](figures/A_SDF_path_filtered.png)
+
+*(See more results in the `figures/` folder.)*
 
 
 ## 📂 Repository Structure
