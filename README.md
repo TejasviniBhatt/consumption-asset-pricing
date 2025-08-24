@@ -41,3 +41,21 @@ and compare how different measures of consumption growth explain asset returns.
 ├── figures/     # Output plots
 ├── report/      # Final project report (PDF)
 └── README.md    # Documentation
+
+
+---
+
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/TejasviniBhatt/consumption-asset-pricing.git
+   cd consumption-asset-pricing/matlab
+
+   main_script.m
+
+##✍️ Author
+
+Developed as part of coursework in MSc Economics & Finance, University of Tübingen.
+By Tejasvini Bhatt
+
+
