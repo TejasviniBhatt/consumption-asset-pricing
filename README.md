@@ -36,11 +36,12 @@ and compare how different measures of consumption growth explain asset returns.
 
 
 ## 📂 Repository Structure
-
+```
 ├── matlab/      # MATLAB scripts
 ├── figures/     # Output plots
 ├── report/      # Final project report (PDF)
 └── README.md    # Documentation
+```
 
 
 ---
