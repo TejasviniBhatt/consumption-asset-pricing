@@ -55,7 +55,7 @@ and compare how different measures of consumption growth explain asset returns.
 2. Open MATLAB and run:
    main_script.m
 
-##✍️ Author
+## ✍️Author
 
 Developed as part of coursework in MSc Economics & Finance, University of Tübingen.
 By Tejasvini Bhatt
